@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Yossef W. Eldeeb
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Youssef W. Eldeeb
 
 <!---
 CreativeYT/CreativeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
